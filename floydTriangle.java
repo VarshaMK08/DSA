@@ -1,3 +1,5 @@
+// Time - O(n²) , Space - O(1)
+
 public class floydTriangle {
 
     static void printFloydTriangle(int n) {
